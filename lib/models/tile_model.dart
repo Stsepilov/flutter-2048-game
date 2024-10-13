@@ -8,4 +8,5 @@ class TileModel {
   (int, int) get index => _index;
 
   set value(int value) => _value = value;
+  set index((int, int) index) => _index = index;
 }

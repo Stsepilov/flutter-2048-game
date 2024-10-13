@@ -10,16 +10,16 @@ class TileWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Container(
-      width: (MediaQuery.of(context).size.width - 30.0) / 4,
-      height: (MediaQuery.of(context).size.height / 2.3) / 4,
-      decoration: boxDecorationForTile(tile.value),
-      child: Center(
-        child: Text(
-          tile.value != 0 ? '${tile.value}' : '',
-          style: tileStyle(tile.value),
-        )
-      )
+    return AnimatedContainer(
+          width: (MediaQuery.of(context).size.width - 30.0) / 4,
+          height: (MediaQuery.of(context).size.height / 2.3) / 4,
+          decoration: boxDecorationForTile(tile.value),
+          duration: const Duration(milliseconds: 200),
+          child: Center(
+              child: Text(
+            tile.value != 0 ? '${tile.value}' : '',
+            style: tileStyle(tile.value),
+          ))
     );
   }
 }
