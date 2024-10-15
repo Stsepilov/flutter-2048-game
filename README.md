@@ -5,6 +5,9 @@
 В дальнейшем планирую добавлять новый функционал, по мере своего погружения во Flutter разработку
 <br>
 Скриншоты игры:
-![2048_1](https://github.com/user-attachments/assets/2defa756-41ac-4cfd-b5e3-1f010031c453)
-![2048_2](https://github.com/user-attachments/assets/abb86810-a1d7-403a-902b-eb82682e2a8c)
+<br>
+<img src="https://github.com/user-attachments/assets/2defa756-41ac-4cfd-b5e3-1f010031c453" alt="описание" width="300" height="650"/>
+<br>
+<img src="https://github.com/user-attachments/assets/abb86810-a1d7-403a-902b-eb82682e2a8c" alt="описание" width="300" height="650"/>
+<br>
 
