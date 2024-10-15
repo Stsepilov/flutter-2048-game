@@ -1,16 +1,10 @@
-# flutter_game_2048
+# 2048
 
-A new Flutter project.
+Моя версия игры 2048 для мобильных устройст, пока что загружена только первая версия игры (возможны баги :D)
+<br>
+В дальнейшем планирую добавлять новый функционал, по мере своего погружения во Flutter разработку
+<br>
+Скриншоты игры:
+![2048_1](https://github.com/user-attachments/assets/2defa756-41ac-4cfd-b5e3-1f010031c453)
+![2048_2](https://github.com/user-attachments/assets/abb86810-a1d7-403a-902b-eb82682e2a8c)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
